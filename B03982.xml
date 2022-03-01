@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bp. Lighton's catechism for children</title>
+            <author>Leighton, Robert, 1611-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03982</idno>
+            <idno type="STC">Wing L1027D</idno>
+            <idno type="STC">ESTC R179429</idno>
+            <idno type="EEBO-CITATION">51784578</idno>
+            <idno type="OCLC">ocm 51784578</idno>
+            <idno type="VID">174987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174987)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2708:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bp. Lighton's catechism for children</title>
+                  <author>Leighton, Robert, 1611-1684.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold [by J. Watson] in Wariston's Clos.,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>[1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and date taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Catechisms --  Early works to 1800.</term>
+               <term>Children --  Prayer-books and devotions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174987:1"/>
+            <p>
+               <pb facs="tcp:174987:2"/>
+               <pb facs="tcp:174987:2" rendition="simple:additions"/>
+               <hi>Bp. LIGHTON'S Catechiſm FOR CHILDREN</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal.</hi> 119 9.</bibl>
+               <p>Wherewithal ſhall a young Man cleanſe his way? by taking heed thereto according to Thy Word.</p>
+            </q>
+            <figure/>
+            <p>EDINBURGH, <hi>Printed and Sold in</hi> Wariſton<hi>'s Cloſs.</hi>
+            </p>
+         </div>
+         <div type="alphabet">
+            <p>
+               <pb facs="tcp:174987:3" rendition="simple:additions"/>
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z.</p>
+            <p>A a b c d e f g h i j k l m n o p q r ſ s t u v w x y z &amp;. <seg rend="ligature">ct</seg> 
+               <seg rend="ligature">ſh</seg> 
+               <seg rend="ligature">ſt</seg> 
+               <seg rend="ligature">ff</seg> 
+               <seg rend="ligature">ſſ</seg> 
+               <seg rend="ligature">fi</seg> 
+               <seg rend="ligature">ſi</seg> 
+               <seg rend="ligature">fl</seg> 
+               <seg rend="ligature">ſl</seg> 
+               <seg rend="ligature">ffi</seg> 
+               <seg rend="ligature">ſſi</seg> 
+               <seg rend="ligature">ffl</seg> 
+               <seg rend="ligature">ae</seg> 
+               <seg rend="ligature">oe.</seg>
+            </p>
+            <p>
+               <hi>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z.</hi>
+            </p>
+            <p>
+               <hi>A a b c d e f g h i j k l m n o p q r ſ s t u v w x y z &amp;. <seg rend="ligature">ct</seg> 
+                  <seg rend="ligature">ſh</seg> 
+                  <seg rend="ligature">ſt</seg> 
+                  <seg rend="ligature">ff</seg> 
+                  <seg rend="ligature">ſſ</seg> 
+                  <seg rend="ligature">fi</seg> 
+                  <seg rend="ligature">ſi</seg> 
+                  <seg rend="ligature">fl</seg> 
+                  <seg rend="ligature">ſl</seg> 
+                  <seg rend="ligature">ffi</seg> 
+                  <seg rend="ligature">ſſi</seg> 
+                  <seg rend="ligature">ſs</seg> 
+                  <seg rend="ligature">ffl</seg> 
+                  <seg rend="ligature">as</seg> 
+                  <seg rend="ligature">is</seg> 
+                  <seg rend="ligature">us</seg> 
+                  <seg rend="ligature">ae</seg> 
+                  <seg rend="ligature">oe.</seg>
+               </hi>
+            </p>
+            <p>a. e. i. o. u. , ; : . ? ! ' - ( )</p>
+            <p>ab. eb. ib ob ub Al el il ol ul</p>
+            <p>ac ec ic oc uc an en in on uu</p>
+            <p>ad ed id od ud ap ep ip op up</p>
+            <p>af ef if of uf ar er ir or ur</p>
+            <p>g eg ig og ug as es is os us</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="3" facs="tcp:174987:3" rendition="simple:additions"/>
+            <head>Bp LIGHTON'S CATECHISM.</head>
+            <div type="question">
+               <head>Queſt. <hi>WHat is naturally every Man's chief Deſire?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> To be Happy.</p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>What is the way to true Happineſs?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> The true and lively Knowledge of the only True God, and of Him Whom He hath ſent, <hi>Jeſus Chriſt.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>What will that Knowledge effectual<g ref="char:EOLhyphen"/>ly work in us?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> It will cauſe us Believe in God, and Love Him above all things, even above our ſelves, to Praiſe and Exalt and to Worſhip Him with all our Might, and to yield up our ſelves to obey all His Com<g ref="char:EOLhyphen"/>mandments.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Q.</hi> Rehearſe the Articles of our Be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</head>
+               <p>A. I believe in God the Father Almighty, Maker of Heaven and Earth: And in Jeſus Chriſt, His only Son our Lord, which was
+<pb n="4" facs="tcp:174987:4" rendition="simple:additions"/>
+Conceived by the holy Ghoſt, Born of the Virgin <hi>Mary,</hi> ſuffered under <hi>Pontius Pi<g ref="char:EOLhyphen"/>late,</hi> was Crucified, Dead and Buried: He deſcended into Hell; the third Day He roſe a<g ref="char:EOLhyphen"/>gain <note place="margin">i. e. <hi>Continued in the ſtate of the Dead, &amp; under the power of Death till the third Day.</hi>
+                  </note> from the Dead, He aſcended into Heaven, and ſitteth on the right Hand of God the Fa<g ref="char:EOLhyphen"/>ther Almighty: from thence He ſhall come to judge both the Quick and the Dead: I believe in the holy Ghoſt: the holy Catholick Church, the Communion of Saints, the For<g ref="char:EOLhyphen"/>giveneſs of Sins: the Reſurrection of the Bo<g ref="char:EOLhyphen"/>dy: and the Life everlaſting. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>Q. Rehearſe the Ten Commandments, which are the Rule of our Obedience, and Trial of our Love.</head>
+               <p>
+                  <hi>A.</hi> God ſpake all theſe words, ſaying, I am the Lord thy God, which have brought thee out of the Land of Egypt, out of the Houſe of Bondage.</p>
+               <p n="1">
+                  <hi>I.</hi> Thou ſhal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have no other gods before Me.</p>
+               <p n="2">
+                  <hi>II.</hi> Thou ſhalt not make thee any graven Image or any likneſs of any thing that is in Heaven above, or that is in the Earth be<g ref="char:EOLhyphen"/>neath,
+<pb n="5" facs="tcp:174987:4" rendition="simple:additions"/>
+or that is in the Water under the Earth, thou ſhalt not bow down thy ſelf to them or ſerve them: for I the Lord thy God am a jealous God: viſiting the Iniquity of the Fathers upon the Children unto the third and fourth Generation of them that hate Me: and ſhewing Mercy unto thouſands of them that love Me, and keep My Commandments.</p>
+               <p n="3">
+                  <hi>III.</hi> Thou ſhalt not take the Name of the Lord thy God in vain: for the Lord will not hold him guiltleſs that taketh His Name in vain.</p>
+               <p n="4">
+                  <hi>IV.</hi> Remember the Sabbath Day to keep it Holy: Six days ſhalt thou Labour and do all thy work; but the Seventh Day is the Sabbath of the Lord thy God: In it thou ſhalt not do any Work: thou, nor thy Son, nor thy Daughter, thy Man-ſervant, nor thy Maid-ſervant, nor thy Cattel, nor the Stranger that is within thy Gates: For in Six days the Lord made Heaven and Earth, the Sea and all that in them is, and reſted the ſe<g ref="char:EOLhyphen"/>venth Day: wherefore the Lord bleſſed the Sabbath Day, and hallowed it.</p>
+               <p n="5">
+                  <hi>V.</hi> Honour thy Father and thy Mother, that thy days may be long upon the Land which the Lord thy God giveth thee.</p>
+               <p n="6">
+                  <pb n="6" facs="tcp:174987:5" rendition="simple:additions"/>
+                  <hi>VI.</hi> Thou ſhalt not Kill.</p>
+               <p n="7">
+                  <hi>VII.</hi> Tbou ſhalt not commit Adultery.</p>
+               <p n="8">
+                  <hi>VIII.</hi> Thou ſhalt not Steal.</p>
+               <p n="9">
+                  <hi>IX.</hi> Thou ſhalt not bear falſe Witneſs a<g ref="char:EOLhyphen"/>gainſt thy Neighbour.</p>
+               <p n="10">
+                  <hi>X.</hi> Thou ſhalt not covet thy Neighbours Houſe, thou ſhalt not covet thy Neighbours Wife, nor his Man-ſervant nor his Maid-ſervant, nor his Ox, nor his Aſs, nor any thing that is tby Neighbours.</p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>What is the Summary our Saviour hath given us of this Law?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Thou ſhalt love the Lord thy God with all thy Heart, with all thy Soul, with all thy Mind, and thy Neighbour as thy ſelf.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Q.</hi> What is the great and effectual Means of obtaining increaſe of Faith, and power to obey, and generally all Graces and all Bleſ<g ref="char:EOLhyphen"/>ſings at the Hands of God?</head>
+               <p>A. <hi>Prayer.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Q.</hi> Rehearſe that excellent and moſt per<g ref="char:EOLhyphen"/>fect Prayer, that our Saviour hath taught us?</head>
+               <p>
+                  <hi>A.</hi> Our Father which art in Heaven, Hal<g ref="char:EOLhyphen"/>lowed be Thy Name. Thy Kingdom come. Thy Will be done on Earth, as it is in Heaven.
+<pb n="7" facs="tcp:174987:5" rendition="simple:additions"/>
+Give us this day our daily Bread. And for<g ref="char:EOLhyphen"/>give us our Debts as we forgive our Debters. And lead us not into Temptation, but deli<g ref="char:EOLhyphen"/>ver us from Evil. For Thine is the King<g ref="char:EOLhyphen"/>dom, and the Power, and the Glory, for ever <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>In what eſtate was Man Created?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> After the Image of God in Holineſs and Righteouſneſs.</p>
+            </div>
+            <div type="question">
+               <head>Q <hi>Did he continue in that eſtate?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> No; but by breaking the Command<g ref="char:EOLhyphen"/>ment which his Maker gave him, he made himſelf and his whole Poſterity ſubject to Sin and Death.</p>
+            </div>
+            <div type="question">
+               <head>Q <hi>Did God leave Man in this Miſery, without all Means and Hope of Recovery?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> No; for He ſo loved the World, that he gave His only begotten Son, that whoſoever Believeth on Him ſhould not Periſh, but have everlaſting Life.</p>
+            </div>
+            <div type="question">
+               <head>Q What then is the great Doctrine and glad Tidings of the Goſpel?</head>
+               <p>A. That ſame coming of the Son of God in the Fleſh, and giving Himſelf to the Death of the Croſs, to take away the
+<pb n="8" facs="tcp:174987:6" rendition="simple:additions"/>
+Sins of the World, His riſing again, and His aſcending up unto Heaven.</p>
+            </div>
+            <div type="question">
+               <head>Q. What doth the Goſpel mainly teach, and really perſwade, the true Believers of it to do?</head>
+               <p>A. It teacheth them, That denying all Ungodlineſs and worldly Luſts, to live Soberly, Holily and Righteouſly, in this preſent World.</p>
+            </div>
+            <div type="question">
+               <head>Q. How hath our Lord Jeſus Chriſt ex<g ref="char:EOLhyphen"/>preſsed the great and neceſſary Duty of all His Diſciples?</head>
+               <p>A. That they deny themſelves, and take up their Croſs and follow Him.</p>
+            </div>
+            <div type="question">
+               <head>Q. Rehearſe then ſome of the chief Points wherein we are to follow our Lord Jeſus Chriſt?</head>
+               <p>
+                  <hi>A.</hi> To ſurrender our ſelves wholy to our heavenly Father, and to His good Pleaſure, even in the ſharpeſt Afflictions &amp; Sufferings, and not at all to do our own Will, nor deſign our own Praiſe or Advan<g ref="char:EOLhyphen"/>tage, but in all to do His Will and ſeek His Glory. <hi>2dly,</hi> To be ſpotleſs and chaſte in our Affections and whole Con<g ref="char:EOLhyphen"/>verſation. <hi>3dly,</hi> To be meek and low<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:174987:6" rendition="simple:additions"/>
+in Heart, not ſlander or reproach, mock or deſpiſe any, and if any do ſo to us, to bear it patiently; yea to rejoice in it. <hi>4ly.</hi> Unfainedly to love our Chriſtian Bre<g ref="char:EOLhyphen"/>theren, to be charitable and kindly affe<g ref="char:EOLhyphen"/>cted towards all Men, even to our Ene<g ref="char:EOLhyphen"/>mies, Forgiving them, yea and Praying for them, and returning them Good for Evil, and to Comfort the Afflicted and Relieve the Poor, and to do Good to all Men as we are able.</p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>What viſible Seals hath our Saviour annexed to the Goſpel to confirm our Faith of it, and to convey the Grace of it to us?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> The Two Sacraments of the New Teſtament Baptiſm and the Lord's Supper.</p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>What does Baptiſm ſignify and ſeal?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Our waſhing from Sin, and our New-birth in <hi>Jeſus Chriſt?</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>Q <hi>What does the Lord's Supper ſignify and ſeal?</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Our nouriſhment and growth in Him, and transferring more and more to His Likeneſs, by feeding on His Body and Blood, under the Figures of Bread and Wine.</p>
+            </div>
+            <div type="question">
+               <pb n="10" facs="tcp:174987:7" rendition="simple:additions"/>
+               <head>Q. <hi>What is required to make fit and wor<g ref="char:EOLhyphen"/>thy Communicants of the Lord's Supper.</hi>
+               </head>
+               <p>A. Faith in <hi>Jeſus Chriſt,</hi> Repentance to<g ref="char:EOLhyphen"/>wards God and Charity towards all Men</p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>What is the final Portion of Unbelie<g ref="char:EOLhyphen"/>vers and unrepenting Sinners.</hi>
+               </head>
+               <p>A. The everlaſting Torments of Devils.</p>
+            </div>
+            <div type="question">
+               <head>Q. <hi>What is the final Portion of them that truely Believe, and really Obey the Goſpel?</hi>
+               </head>
+               <p>A. The bleſſed Life of Angels in the viſion of God for ever.</p>
+            </div>
+            <div type="question">
+               <head>To young Perſons before their firſt admiſ<g ref="char:EOLhyphen"/>ſion to the Lords Supper, this one Que<g ref="char:EOLhyphen"/>ſtion is particularly to be added.</head>
+               <head>
+                  <hi>Q</hi> Whereas you were in your Infancy bap<g ref="char:EOLhyphen"/>tized in the Name of <hi>Jeſus Chriſt,</hi> do you now upon diſtinct Knowledge, and with firm Belief, and pious Affection, own that Chri<g ref="char:EOLhyphen"/>ſtian Faith of which you have given an ac<g ref="char:EOLhyphen"/>count: and withal the Baptiſmal Vow of re<g ref="char:EOLhyphen"/>nouncing the Service of Satan, the Luſt of the Fleſh and of devouting your ſelf to God in all Holineſs of Life.</head>
+               <p>
+                  <pb n="11" facs="tcp:174987:7" rendition="simple:additions"/>
+                  <hi>A. I do heartily and unfeignedly de<g ref="char:EOLhyphen"/>clare my Belief of that Faith, and my En<g ref="char:EOLhyphen"/>gagment to that holy Vow, and reſolve by the aſſiſtance of God's Grace to continue in the careful obſervance of it all my Days.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174987:8"/>
+            <pb facs="tcp:174987:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
